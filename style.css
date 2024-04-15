@@ -1,0 +1,14 @@
+section 
+{
+    border: 10px solid blue;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+article 
+{
+    border: 2px solid blue;
+    margin: auto;
+    width: 300px;
+}
